@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paige/RiderProjects/Flip/Flip/Flip.csproj",
+      "projectUniqueName": "/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/Flip.csproj",
       "projectName": "Flip",
-      "projectPath": "/Users/paige/RiderProjects/Flip/Flip/Flip.csproj",
+      "projectPath": "/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/Flip.csproj",
       "packagesPath": "/Users/paige/.nuget/packages/",
-      "outputPath": "/Users/paige/RiderProjects/Flip/Flip/obj/",
+      "outputPath": "/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

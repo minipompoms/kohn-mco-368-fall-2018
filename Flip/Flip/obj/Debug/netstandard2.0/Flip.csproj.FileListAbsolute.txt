@@ -1,0 +1,4 @@
+/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/obj/Debug/netstandard2.0/Flip.csprojAssemblyReference.cache
+/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/obj/Debug/netstandard2.0/Flip.csproj.CoreCompileInputs.cache
+/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/obj/Debug/netstandard2.0/Flip.AssemblyInfoInputs.cache
+/Users/paige/RiderProjects/kohn-mco-368-fall-2018/Flip/Flip/obj/Debug/netstandard2.0/Flip.AssemblyInfo.cs
