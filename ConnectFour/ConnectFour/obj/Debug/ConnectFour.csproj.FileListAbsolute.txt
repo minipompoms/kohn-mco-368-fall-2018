@@ -1,0 +1,14 @@
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/bin/Debug/ConnectFour.exe.config
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/bin/Debug/ConnectFour.exe
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/bin/Debug/ConnectFour.pdb
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/obj/Debug/ConnectFour.csprojAssemblyReference.cache
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/obj/Debug/ConnectFour.csproj.CoreCompileInputs.cache
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/obj/Debug/ConnectFour.exe
+C:/Users/Paige/source/repos/ConnectFour/ConnectFour/obj/Debug/ConnectFour.pdb
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/bin/Debug/ConnectFour.exe.config
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/bin/Debug/ConnectFour.exe
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/bin/Debug/ConnectFour.pdb
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/obj/Debug/ConnectFour.csprojAssemblyReference.cache
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/obj/Debug/ConnectFour.csproj.CoreCompileInputs.cache
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/obj/Debug/ConnectFour.exe
+/Users/paige/RiderProjects/ConnectFour/ConnectFour/obj/Debug/ConnectFour.pdb

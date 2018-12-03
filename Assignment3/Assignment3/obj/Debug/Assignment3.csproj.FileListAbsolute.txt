@@ -1,0 +1,6 @@
+/Users/paige/RiderProjects/Assignment3/Assignment3/bin/Debug/Assignment3.pdb
+/Users/paige/RiderProjects/Assignment3/Assignment3/obj/Debug/Assignment3.csprojAssemblyReference.cache
+/Users/paige/RiderProjects/Assignment3/Assignment3/obj/Debug/Assignment3.csproj.CoreCompileInputs.cache
+/Users/paige/RiderProjects/Assignment3/Assignment3/obj/Debug/Assignment3.pdb
+/Users/paige/RiderProjects/Assignment3/Assignment3/bin/Debug/Assignment3.exe
+/Users/paige/RiderProjects/Assignment3/Assignment3/obj/Debug/Assignment3.exe
